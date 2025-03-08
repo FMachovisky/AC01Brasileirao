@@ -1,7 +1,8 @@
-**AC 01 - Software Product: Analysis, Specification, Project & Implementation**
-**202501 - EAD - ADS 5A**
-Aluno: Felippe Machoski de Souza
-Professor: Antonio de Oliveira Dias
+#**AC 01 - Software Product: Analysis, Specification, Project & Implementation**
+#**Projeto Brasileirão 2024 (Série A)**
+##**202501 - EAD - ADS 5A**
+###Aluno: Felippe Machoski de Souza
+###Professor: Antonio de Oliveira Dias
 
 Introdução ao Projeto Brasileirão 2024 (Série A)
 Neste projeto, teremos a oportunidade de mergulhar nos dados detalhados das partidas do Campeonato Brasileiro no ano de 2024. Ao explorar esses dados, nosso objetivo é obter insights que nos ajudem a compreender melhor como foi esse torneio tão amado pelos brasileiros. O dataset usado para este projeto pode ser encontrado no Kaggle pelo link: https://www.kaggle.com/datasets/fabioschirmann/brasileiro-2024-srie-a-dataset
