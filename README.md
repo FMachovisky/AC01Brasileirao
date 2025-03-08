@@ -49,6 +49,8 @@ o	Análise dos jogos que tiveram maior impacto na classificação final ou que f
 ## **Bibliotecas Utilizadas**
 
 numpy
+
 pandas
+
 plotly.graph_
 
