@@ -1,7 +1,11 @@
 #**AC 01 - Software Product: Analysis, Specification, Project & Implementation**
+
 #**Projeto Brasileirão 2024 (Série A)**
+
 ##**202501 - EAD - ADS 5A**
+
 ###Aluno: Felippe Machoski de Souza
+
 ###Professor: Antonio de Oliveira Dias
 
 Introdução ao Projeto Brasileirão 2024 (Série A)
