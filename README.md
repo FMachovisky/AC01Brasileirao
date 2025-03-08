@@ -10,7 +10,10 @@
 
 Introdução ao Projeto Brasileirão 2024 (Série A)
 
-Neste projeto, teremos a oportunidade de mergulhar nos dados detalhados das partidas do Campeonato Brasileiro no ano de 2024. Ao explorar esses dados, nosso objetivo é obter insights que nos ajudem a compreender melhor como foi esse torneio tão amado pelos brasileiros. O dataset usado para este projeto pode ser encontrado no Kaggle pelo link: https://www.kaggle.com/datasets/fabioschirmann/brasileiro-2024-srie-a-dataset
+Neste projeto, teremos a oportunidade de mergulhar nos dados detalhados das partidas do Campeonato Brasileiro no ano de 2024. Ao explorar esses dados, nosso objetivo é obter insights que nos ajudem a compreender melhor como foi esse torneio tão amado pelos brasileiros. 
+
+O dataset usado para este projeto pode ser encontrado no Kaggle pelo link:https://www.kaggle.com/datasets/fabioschirmann/brasileiro-2024-srie-a-dataset
+
 Dentro do dataset, temos informações como Data, Horário, em casa (equipe que jogou como mandante), Resultado, Visitante (equipe que jogou como visitante), Público e Local. Com base nessas informações, buscamos responder às seguintes perguntas:
 
 1.	Quais foram os times com os melhores desempenhos no campeonato?
