@@ -14,7 +14,7 @@ Neste projeto, teremos a oportunidade de mergulhar nos dados detalhados das part
 
 O dataset usado para este projeto pode ser encontrado no Kaggle pelo link:https://www.kaggle.com/datasets/fabioschirmann/brasileiro-2024-srie-a-dataset
 
-Dentro do dataset, temos informações como Data, Horário, em casa (equipe que jogou como mandante), Resultado, Visitante (equipe que jogou como visitante), Público e Local. Com base nessas informações, buscamos responder às seguintes perguntas:
+Dentro do dataset, temos informações como Data, Horário, Em casa (equipe que jogou como mandante), Resultado, Visitante (equipe que jogou como visitante), Público e Local. Com base nessas informações, buscamos responder às seguintes perguntas:
 
 1.	Quais foram os times com os melhores desempenhos no campeonato?
 o	Análise dos times que obtiveram mais pontos, vitórias e melhor aproveitamento ao longo do torneio.
