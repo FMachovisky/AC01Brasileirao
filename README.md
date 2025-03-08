@@ -2,13 +2,13 @@
 
 # **Projeto Brasileirão 2024 (Série A)**
 
+## Aluno: Felippe Machoski de Souza
+
 ## **202501 - EAD - ADS 5A**
 
-### Aluno: Felippe Machoski de Souza
+## Professor: Antonio de Oliveira Dias
 
-### Professor: Antonio de Oliveira Dias
-
-Introdução ao Projeto Brasileirão 2024 (Série A)
+### **Introdução ao Projeto Brasileirão 2024 (Série A)**
 
 Neste projeto, teremos a oportunidade de mergulhar nos dados detalhados das partidas do Campeonato Brasileiro no ano de 2024. Ao explorar esses dados, nosso objetivo é obter insights que nos ajudem a compreender melhor como foi esse torneio tão amado pelos brasileiros. 
 
@@ -45,4 +45,10 @@ o	Identificação das equipes que tiveram o maior número de empates durante a c
 
 10.	Quais foram os confrontos mais equilibrados ou decisivos?
 o	Análise dos jogos que tiveram maior impacto na classificação final ou que foram marcados por grande equilíbrio entre as equipes.
+
+## **Bibliotecas Utilizadas**
+
+numpy
+pandas
+plotly.graph_
 
